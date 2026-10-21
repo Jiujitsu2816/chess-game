@@ -1,0 +1,12 @@
+software\ulpgc\chess\Deserializer.class
+software\ulpgc\chess\ConsoleGame.class
+software\ulpgc\chess\Position.class
+software\ulpgc\chess\Square.class
+software\ulpgc\chess\Board.class
+software\ulpgc\chess\Piece$Type.class
+software\ulpgc\chess\ChessPosition.class
+software\ulpgc\chess\FenDeserializer.class
+software\ulpgc\chess\Piece$Color.class
+software\ulpgc\chess\ChessGame.class
+software\ulpgc\chess\Main.class
+software\ulpgc\chess\Piece.class
